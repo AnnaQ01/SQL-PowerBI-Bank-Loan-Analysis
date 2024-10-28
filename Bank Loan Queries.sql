@@ -45,7 +45,7 @@ FROM loan
 GROUP BY term
 ORDER BY term
 
---1.9. EMPLOYEE LENGTH
+--1.9. Loan Amount by Employment Length
 SELECT 
 	emp_length AS Employee_Length, 
 	COUNT(id) AS Total_Loan_Applications,
@@ -75,9 +75,7 @@ FROM loan
 GROUP BY purpose
 ORDER BY Total_Loan_Applications Asc;
 
-
-
---1.12. HOME OWNERSHIP
+--1.12. Loan by Home Ownership
 SELECT 
 	home_ownership AS Home_Ownership, 
 	COUNT(id) AS Total_Loan_Applications,
@@ -262,7 +260,7 @@ GROUP BY
 ORDER BY 
     default_rate DESC;
 
-	-- 2.7. Loan Status Summary
+-- 2.7. Loan Status Summary
 WITH LoanSummary AS (
     SELECT
         loan_status,
