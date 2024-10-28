@@ -7,7 +7,7 @@ Power BI is employed to visualize the insights from the data analysis. The dashb
 
 <img width="924" alt="image" src="https://github.com/user-attachments/assets/a71e8881-c6a5-4feb-bafd-b7194957d545">
 
-<img width="925" alt="image" src="https://github.com/user-attachments/assets/5b268da8-044d-4739-ae64-f72e63994454">
+<img width="925" alt="image" src="https://github.com/user-attachments/assets/c63831f5-ecf3-426d-a91d-2d31681015b6">
 
 # Files
 
