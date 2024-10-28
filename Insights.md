@@ -1,6 +1,7 @@
 # OVERVIEW
 
-<img width="925" alt="image" src="https://github.com/user-attachments/assets/3c815fef-a647-44cd-bac4-a0470c39e5d4">
+<img width="924" alt="image" src="https://github.com/user-attachments/assets/a7e55c01-0bd3-4ba1-8c49-d5b3555d6056">
+
 
 
 
@@ -17,7 +18,8 @@ Smaller states also show loan activity, indicating widespread geographic distrib
 
 # DETAILS
 
-<img width="933" alt="image" src="https://github.com/user-attachments/assets/12c151d7-9c3d-48dd-a91b-719a13ec2924">
+<img width="929" alt="image" src="https://github.com/user-attachments/assets/af1d0970-6d94-4732-9a38-e17a2d769877">
+
 
 - **Good vs. Bad Loan Amounts**: The Good Loan Amount totals 370.22M, representing 84.96% of the overall loans, while the Bad Loan Amount (Charged Off) stands at 65.53M, accounting for 15.04%. This suggests that the majority of loans are in good standing.
 - **Loan Amount by Income Group**: Moderate-income borrowers take the highest loan amounts with 151.88M in good loans and 26.21M in bad loans. Low-income borrowers have a total of 135.89M in good loans and 28.24M in bad loans, indicating a relatively higher proportion of bad loans compared to the moderate-income group. High-income borrowers show the lowest total in both good and bad loans, with 82.45M in good loans and 11.08M in bad loans.
@@ -29,7 +31,7 @@ Smaller states also show loan activity, indicating widespread geographic distrib
 - **Applications by Grade and Loan Group**: Higher credit grades (A, B, C) have a higher percentage of good loans, with Grade A showing 94% good loans. Lower credit grades (F, G) show a greater proportion of bad loans, with Grade G showing 31% bad loans.
 - **Loan Status Summary**: Fully Paid loans make up the majority of the loan portfolio with 32,145 applications and a total loan amount of 351.36M. Charged Off loans represent 5,333 applications with a total loan amount of 65.53M and a slightly higher interest rate (13.88%). Current loans total 1,098 applications with 18.87M in loans, showing a higher interest rate (15.10%) and a lower DTI (14.72%).
 
-# The factors contributing to bad loans: 
+# The factors contributing to bad loans
 - **Income Level**: Low-income borrowers have a higher default rate, with 28.24M in bad loans, while moderate-income borrowers also contribute significantly with 26.21M. Income level plays a key role in a borrower's ability to repay.
 - **Loan Purpose**: Debt consolidation is the leading cause of bad loans, accounting for 36.26M, indicating challenges in managing consolidated debts.
 - **Verification Status**: Not Verified loans show a higher risk of default, with 17.78M in bad loans. Even Verified loans account for 32.86M in bad loans, though part of a larger loan pool.
@@ -38,7 +40,7 @@ Smaller states also show loan activity, indicating widespread geographic distrib
 - **Home Ownership**: Renters have 28.99M in bad loans, slightly less than mortgage holders (31.75M), indicating non-homeowners are at higher risk.
 - **Employment Length**: Borrowers with 1-3 years of employment show more bad loans compared to those with longer employment. In contrast, borrowers with >10 years of employment have better loan performance.
 
-# Suggestions to Reduce Bad Loans:
+# Suggestions to Reduce Bad Loans
 - Set stricter approval criteria for low-income borrowers, such as lower loan limits or increased collateral. Offering smaller loans or shorter terms can help reduce default risk.
 - Implement stricter debt-to-income (DTI) checks to ensure borrowers can manage consolidated debt.
 - Promote 36-month loans, which have a lower default rate than 60-month terms. Offer incentives like lower interest rates or fees for choosing shorter terms.
