@@ -5,7 +5,8 @@ Power BI is employed to visualize the insights from the data analysis. The dashb
 - Overview: Provides a high-level summary of loan performance, including total loan amounts, loan applications, payments, and average interest rates.
 - Detail Analysis: Focuses on the breakdown of good loans and bad loans, delving into various factors such as loan purpose, borrower income, employment length, loan term, credit grades, regions, and home ownership status.
 
-<img width="925" alt="image" src="https://github.com/user-attachments/assets/941301d5-8c6c-4113-ba8e-9ade3c13fd07">
+<img width="924" alt="image" src="https://github.com/user-attachments/assets/a71e8881-c6a5-4feb-bafd-b7194957d545">
+
 <img width="925" alt="image" src="https://github.com/user-attachments/assets/5b268da8-044d-4739-ae64-f72e63994454">
 
 # Files
