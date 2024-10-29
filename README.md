@@ -14,5 +14,6 @@ Power BI is employed to visualize the insights from the data analysis. The dashb
 
 - [Bank Loan Queries](https://github.com/AnnaQ01/SQL-PowerBI-Bank-Loan-Analysis/blob/main/Bank%20Loan%20Queries.sql) - SQL queries used for the loan analysis.
 - [Bank Loan Analysis Dashboard](https://github.com/AnnaQ01/SQL-PowerBI-Bank-Loan-Analysis/blob/main/Bank%20Loan%20Analysis%20DashBoard.pbix) - Dashboard visualization of the analysis using Power BI.
+- [Insights](https://github.com/AnnaQ01/SQL-PowerBI-Bank-Loan-Analysis/blob/main/Insights.md): Insights and recommendations.
 - [Bank Loan Analysis Dashboard PDF](https://github.com/AnnaQ01/SQL-PowerBI-Bank-Loan-Analysis/blob/main/Bank%20Loan%20Analysis%20DashBoard.pdf) - PDF file of Dashboard visualization.
 - https://www.kaggle.com/datasets/nezukokamaado/auto-loan-dataset: Datasource. 
