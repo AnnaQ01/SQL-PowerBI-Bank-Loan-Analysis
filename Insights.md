@@ -1,8 +1,6 @@
 # OVERVIEW
 
-<img width="924" alt="image" src="https://github.com/user-attachments/assets/a7e55c01-0bd3-4ba1-8c49-d5b3555d6056">
-
-
+<img width="952" alt="image" src="https://github.com/user-attachments/assets/acad2e8a-f8ee-4b13-aaeb-22cf04626272">
 
 
 - **Total Loan Applications and Amounts:** there are 39,000 loan applications, representing a total loan amount of 436 million (M) and total payments amounting to 473M. This shows a strong level of activity in loan disbursement and repayment.
