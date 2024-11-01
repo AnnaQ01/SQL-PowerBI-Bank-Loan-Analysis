@@ -1,10 +1,16 @@
 # SQL-PowerBI-Bank-Loan-Analysis
 
-The Bank Loan Analysis Project utilizes SQL to perform comprehensive analysis on loan data, helping to identify patterns, trends, and key factors influencing loan performance. By leveraging SQL queries, the project categorizes loans into good loans (fully paid or current loans) and bad loans (charged-off loans), providing insights into borrower behavior, loan defaults, and trends and identify key factors influencing loan defaults. 
+The objective of this project is to utilize SQL and Power BI to analyze bank loan data with a primary focus on identifying and understanding factors that contribute to loan defaults, categorized as bad loans (charged-off loans). By examining borrower behavior, loan purposes, credit grades, and other demographic factors, the analysis aims to highlight patterns and risk indicators associated with higher default rates.  
+Through this detailed analysis, the project provides actionable insights to help reduce the bad loan rate by:
+- Identifying trends in loan applications and performance over time.
+- Analyze loan purposes to determine which types have higher tendencies for defaults.
+-  Examine the impact of credit grades and verification status on loan outcomes to refine credit assessment and lending policies.
+- Identifying high-risk factors (e.g., income category, employment length, loan term, home ownership status) that correlate with higher default rates.
+From the analysis, several recommendations can be proposed to reduce the bad loan rate. 
+
 Power BI is employed to visualize the insights from the data analysis. The dashboard is divided into two key sections:
 - Overview: Provides a high-level summary of loan performance, including total loan amounts, loan applications, payments, and average interest rates.
 - Detail Analysis: Focuses on the breakdown of good loans and bad loans, delving into various factors such as loan purpose, borrower income, employment length, loan term, credit grades, regions, and home ownership status.
-
 <img width="950" alt="image" src="https://github.com/user-attachments/assets/c3d5c12e-6ed5-4484-abdb-ed774e06ec1a">
 
 
